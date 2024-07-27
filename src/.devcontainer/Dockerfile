@@ -4,4 +4,4 @@
 # Base Image
 # =============================================================================
 
-FROM starlingnest/docker-pythonocc:latest
+FROM starlingnest/pythonocc:latest
