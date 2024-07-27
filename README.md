@@ -1,2 +1,1 @@
-# docker-pythonocc
-Docker | PythonOCC
+# Docker | PythonOCC
