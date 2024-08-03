@@ -1,6 +1,6 @@
 # Docker | pythonOCC
 
-**Starling Suite**
+**Starling Studio Suite**
 
 ---
 
